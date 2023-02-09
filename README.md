@@ -1,4 +1,7 @@
 # oereb-wms
+
+**Important note: This repository is not active anymore. Development continues in https://github.com/sogis/oereb-wms.**
+
 WMS server for OEREB-Kataster.
 
 **Achtung**: Das `linux/arm64`-Image verwendet QGIS 3.10 aus dem Ubuntu-Repo. Im Ubuntugis-Repo gibt es keine `linux/arm64`-Pakete.
